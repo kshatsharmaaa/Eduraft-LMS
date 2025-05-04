@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<svg width="115" height="34" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <path clip-rule="evenodd" d="m17,34c9.39,0 17,-7.61 17,-17c0,-9.39 -7.61,-17 -17,-17c-9.39,0 -17,7.61 -17,17c0,9.39 7.61,17 17,17zm5.3,-26.08c0.26,-0.92 -0.63,-1.46 -1.44,-0.88l-11.35,8.08c-0.88,0.63 -0.74,1.88 0.21,1.88l2.99,0l0,-0.02l5.82,0l-4.74,1.67l-2.09,7.43c-0.26,0.92 0.63,1.46 1.44,0.88l11.35,-8.08c0.88,-0.63 0.74,-1.88 -0.21,-1.88l-4.53,0l2.55,-9.08z" fill="#0260FF" fill-rule="evenodd" id="svg_1"/>
+  <text fill="#ffffff" font-family="Sans-serif" font-size="21.08" font-weight="bold" id="svg_3" stroke-width="0" text-anchor="middle" x="77.03" xml:space="preserve" y="25">Eduraft</text>
+ </g>
+</svg>
