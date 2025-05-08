@@ -76,7 +76,7 @@ export const educatorDashboardData = async (req, res) => {
 
         // collect unique enrolled student Ids with their course titles
 
-        const enrolledStudentsData = {};
+        const enrolledStudentsData = [];
 
         for (const course of courses) {
             const students = await User.find({
@@ -86,7 +86,7 @@ export const educatorDashboardData = async (req, res) => {
             students.forEach(element => {
                 enrolledStudentsData.push({
                     courseTitle: course.courseTitle,
-                    student
+                    student: element
                 })
             })
         }

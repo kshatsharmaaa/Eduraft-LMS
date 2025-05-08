@@ -56,8 +56,8 @@ const Dashboard = () => {
           <div className="flex items-center gap-3 shadow-card border border-blue-500 p-4 w-56 rounded-md">
             <img src={assets.earning_icon} alt="" />
             <div className="">
-              <p className='text-2xlfront-medium text-gray-600'>{currency} {dashboardData.totalEarnings}</p>
-              <p className='text-base text-gray-500'>Total Enrollments</p>
+              <p className='text-2xlfront-medium text-gray-600'>{currency} {dashboardData.totalEarning}</p>
+              <p className='text-base text-gray-500'>Total Earnings</p>
             </div>
           </div>
         </div>
