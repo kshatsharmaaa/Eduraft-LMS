@@ -58,4 +58,4 @@ npm run dev
 # Install dependencies for backend
 cd ../server
 npm install
-npm run dev
+npm run server
